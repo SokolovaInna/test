@@ -1,4 +1,4 @@
-package org
+package org.example
 
 class CreateMap {
   static Map<Integer, Long> countElements(List<Integer> list) {
